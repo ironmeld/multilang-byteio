@@ -5,4 +5,7 @@ This project contains Byte I/O code for various programming languages.
 This project is in development. Expect minimal or no support.
 
 # Dependencies
-Developed on python 3.6.9
+
+## Centos 8
+### src/python3/idiomatic1/byteio requires python 3.6.9
+sudo dnf install python3
